@@ -2,6 +2,11 @@
 
 > HTML5, CSS, JavaScript를 포함하여 종합적인 웹 개발 정보가 담긴 사이트
 
+## 지식
+
+ - **[W3Schools](https://www.w3schools.com)** `영`
+   - HTML5, CSS3, JavaScript, 그 외 프로그래밍 언어가 포함된 웹 개발 입문을 위한 자습서 및 예제 제공
+
 ## 호환성
 
  - **[Can I Use...](https://caniuse.com)** `영`

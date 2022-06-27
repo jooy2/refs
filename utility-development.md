@@ -22,3 +22,6 @@
 
  - **[ExplainShell](https://explainshell.com)** `영`
    - 리눅스 커맨드라인 명령을 명령어별로 해석해주는 사이트
+
+ - **[asciinema](https://asciinema.org)** `영`
+   - 리눅스, macOS 터미널 입출력을 특정 포맷으로 녹화하여 기록하거나 공유하는 사이트
