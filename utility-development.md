@@ -2,6 +2,11 @@
 
 > 프로그래밍에 유용한 각종 유틸리티 정보
 
+## 검증
+
+ - **[VirusTotal](https://www.virustotal.com)** `영`
+   - 업로드한 파일에 대한 여러 백신 프로그램의 탐지 결과를 보여주는 웹 애플리케이션. 백신별 검사 결과를 상세히 제공
+
 ## 그래픽
 
  - **[Adobe Color](https://color.adobe.com)** `영`
@@ -14,6 +19,11 @@
 
  - **[Chinese Converter](https://www.chineseconverter.com/kr)** `한`
    - 중국어 텍스트 관련 다양한 유틸리티 제공
+
+## 단위 & 계산
+
+ - **[Epoch Converter](https://www.epochconverter.com)** `영`
+   - Unix 타임스탬프를 현재 시각으로 변환(또는 반대로)해주는 사이트
 
 ## 운영체제 - 리눅스
 
