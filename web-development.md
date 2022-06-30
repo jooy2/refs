@@ -2,15 +2,18 @@
 
 > HTML5, CSS, JavaScript를 포함하여 종합적인 웹 개발 정보가 담긴 사이트
 
-## 지식
+## 입문 및 지식
 
  - **[W3Schools](https://www.w3schools.com)** `영`
    - HTML5, CSS3, JavaScript, 그 외 프로그래밍 언어가 포함된 웹 개발 입문을 위한 자습서 및 예제 제공
 
-## 호환성
+## 프로젝트 구축, 관리 및 호환성
 
  - **[Can I Use...](https://caniuse.com)** `영`
    - HTML5, CSS3 관련 특정 요소에 대해 각종 브라우저와 운영체제의 종류와 버전별로 지원 여부를 안내하는 사이트
+
+ - **[NPM Trends](https://www.npmtrends.com/)** `영`
+   - 여러 NPM 모듈간의 다운로드 추세 통계를 비교해주는 사이트
 
  - **[Chrome Platform Status](https://chromestatus.com/roadmap)** `영`
    - Google Chrome 브라우저의 기술 관련 릴리스 주요 변동사항
