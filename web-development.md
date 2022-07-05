@@ -22,3 +22,6 @@
 
  - **[Instant Domain Search](https://instantdomainsearch.com)** `영`
    - 도메인이 현재 사용 중인지 확인해주는 검색 사이트. 다양한 최상위도메인(gTLD, New gTLD, ccTLD)에 대한 검색 결과 제공
+
+ - **[후이즈검색](https://xn--c79as89aj0e29b77z.xn--3e0b707e)** `한`
+   - 도메인 및 IP 소유자 검색 사이트

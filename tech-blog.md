@@ -19,9 +19,6 @@
  - **[ZeroCho](https://www.zerocho.com)** `한`
    - 다양한 웹 프로그래밍 언어 스터디, 정보 제공
 
- - **[JooTC](https://jootc.com)** `한`
-   - 테크, 운영체제 및 프로그래밍 정보 제공
-
 ## 운영체제
 
  - **[Windows Central](https://www.windowscentral.com)** `영`
