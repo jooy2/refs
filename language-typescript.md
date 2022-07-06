@@ -1,6 +1,6 @@
 # TypeScript
 
-> TypeScript 프로그래밍 언어 관련 기술 문서 및 라이브러리 모음
+> `TypeScript` 프로그래밍 언어 관련 기술 문서 및 라이브러리 모음
 
 ## 문법
 

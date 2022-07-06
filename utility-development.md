@@ -4,13 +4,25 @@
 
 ## 검증
 
- - **[VirusTotal](https://www.virustotal.com)** `영`
+ - **[Fast 인터넷 속도 테스트](https://www.virustotal.com)** `영`
    - 업로드한 파일에 대한 여러 백신 프로그램의 탐지 결과를 보여주는 웹 애플리케이션. 백신별 검사 결과를 상세히 제공
+
+ - **[VirusTotal](https://fast.com/ko)** `한`
+   - 인터넷 속도 측정 사이트 (Netflix 제공)
+
+ - **[Internet Speed Test](https://speed.cloudflare.com)** `영`
+   - CloudFlare 인터넷 속도 측정 사이트
+
+ - **[Speedtest by Ookla](https://www.speedtest.net)** `영`
+   - 인터넷 속도 측정 사이트
 
 ## 그래픽
 
  - **[Adobe Color](https://color.adobe.com)** `영`
    - Color Picker, 조화 색상 추천 등 다양한 색상 추출 유틸리티
+
+ - **[Photopea](https://www.photopea.com)** `한`
+   - 포토샵 대체용으로 사용 가능한 온라인 이미지 편집 웹 애플리케이션
 
 ## 텍스트
 
@@ -19,6 +31,11 @@
 
  - **[Chinese Converter](https://www.chineseconverter.com/kr)** `한`
    - 중국어 텍스트 관련 다양한 유틸리티 제공
+
+## 편의
+
+ - **[QR Code Generator](https://ko.qr-code-generator.com)** `한`
+   - 원하는 링크나 정보가 포함된 QR 코드를 생성해주는 사이트
 
 ## 단위 & 계산
 

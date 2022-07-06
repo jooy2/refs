@@ -13,7 +13,7 @@
 ## 코딩테스트
 
  - **[프로그래머스 (Programmers)](https://programmers.co.kr/learn/challenges)** `한`
-   - 프로그래밍 문서 및 개발자 정보, 코딩테스트 제공
+   - 프로그래밍 문서 및 개발자 정ㄴ보, 코딩테스트 제공
 
  - **[Baekjoon Online Judge](https://www.acmicpc.net)** `한` `계정`
    - 다양한 분야의 코딩테스트 제공

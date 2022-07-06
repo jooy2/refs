@@ -1,6 +1,6 @@
 # 웹 개발
 
-> HTML5, CSS, JavaScript를 포함하여 종합적인 웹 개발 정보가 담긴 사이트
+> `HTML5`, `CSS`, `JavaScript`를 포함하여 종합적인 웹 개발 정보가 담긴 사이트
 
 ## 입문 및 지식
 
@@ -25,3 +25,11 @@
 
  - **[후이즈검색](https://xn--c79as89aj0e29b77z.xn--3e0b707e)** `한`
    - 도메인 및 IP 소유자 검색 사이트
+
+## 검증 및 보안
+
+ - **[SSL Server Test](https://www.ssllabs.com/ssltest/index.html)** `영`
+   - 도메인 SSL 인증서의 암호화 알고리즘 대해 안전 여부를 검증해주는 도구
+
+ - **[Mozilla Observatory](https://observatory.mozilla.org)** `영`
+   - 웹사이트에 대한 보안 정책에 대한 취약점(주로 `CORS`, `CSP`)을 검증하고 해결 방법을 안내하는 도구

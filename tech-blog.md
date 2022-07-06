@@ -5,7 +5,7 @@
 ## 종합 정보
 
  - **[Naver D2](https://d2.naver.com)** `한`
-   - 개발자를 위한 실무자의 지식과 경험 공유 블로그
+   - 개발자를 위한 네이버 실무자의 지식과 경험 공유 블로그
 
  - **[Line Engineering](https://engineering.linecorp.com)** `한`
    - 라인 관련 서비스 또는 개발 트렌드에 대한 기술 블로그
@@ -15,6 +15,12 @@
 
  - **[Kakao Tech Blog](https://tech.kakao.com/blog)** `한`
    - 카카오 개발 운영 노하우 및 다양한 기술 지식 블로그
+
+ - **[우아한형제들 기술 블로그](https://techblog.woowahan.com)** `한`
+   - 우아한형제들 실무자의 지식과 경험 공유 블로그
+
+ - **[web.dev](https://web.dev)** `영`
+   - 웹 개발자를 위한 다양한 웹 기술 블로그 (Google 운영)
 
  - **[ZeroCho](https://www.zerocho.com)** `한`
    - 다양한 웹 프로그래밍 언어 스터디, 정보 제공
