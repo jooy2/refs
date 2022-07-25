@@ -24,6 +24,17 @@
  - **[Photopea](https://www.photopea.com)** `한`
    - 포토샵 대체용으로 사용 가능한 온라인 이미지 편집 웹 애플리케이션
 
+## 디자인
+
+ - **[Zeplin](https://zeplin.io)** `영`
+   - 프론트엔드 웹, 애플리케이션 레이아웃 디자인 도구
+
+ - **[Sketch](https://www.sketch.com)** `영`
+   - macOS, iOS전용 애플리케이션 디자인 도구
+
+ - **[Figma](https://www.figma.com)** `영`
+   - 웹, 애플리케이션 인터페이스 디자인 협업 도구
+
 ## 텍스트
 
  - **[Mergely](https://editor.mergely.com)** `영`

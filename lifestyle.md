@@ -23,5 +23,5 @@
 - **[OPGC](https://opgc.me)** `한`
    - GitHub 개발자 데이터를 활용한 개발자 랭킹 사이트
 
-- **[OPGC](https://gitstar-ranking.com)** `영`
+- **[Gitstar Ranking](https://gitstar-ranking.com)** `영`
    - GitHub 개발자 데이터를 활용한 개발자 랭킹 사이트 (등록에는 로그인 필요)
