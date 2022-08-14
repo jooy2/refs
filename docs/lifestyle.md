@@ -18,7 +18,7 @@
  - **[Virtual x86](https://copy.sh/v86)** `영`
    - v86을 사용하여 웹에서 즉시 실행 가능한 가상머신 데모 사이트
 
- - **[AutoDraw](https://www.pcjs.org)** `영`
+ - **[PCjs Machines](https://www.pcjs.org)** `영`
    - IBM PC를 주제로 한 웹에서 실행 가능한 가상머신 모음
 
 ## 개발자 프로필
