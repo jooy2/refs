@@ -14,3 +14,11 @@ jspm_packages/
 # System files
 .DS_Store
 Thumbs.db
+
+# Vuepress files
+/docs/.vuepress/dist
+/docs/.vuepress/dist/*
+/docs/.vuepress/.temp
+/docs/.vuepress/.temp/*
+/docs/.vuepress/.cache
+/docs/.vuepress/.cache/*

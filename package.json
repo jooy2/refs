@@ -1,0 +1,29 @@
+{
+  "name": "refs",
+  "version": "1.0.0",
+  "description": "A collection of links to various resources to help you develop your web or app.",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs --port 8000",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jooy2/refs.git"
+  },
+  "author": "jooy2 <jootc.help@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jooy2/refs/issues"
+  },
+  "homepage": "https://refs.jooy2.com",
+  "devDependencies": {
+    "@vuepress/theme-default": "^1.9.7",
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "vuepress-bar": "^0.4.4"
+  }
+}
