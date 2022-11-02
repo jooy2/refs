@@ -4,11 +4,13 @@
 
 ## 문법
 
- - **[TypeScriptLang.org](https://www.typescriptlang.org)** `공식` `영`
-   - 타입스크립트 공식 문서 사이트
+- **[TypeScriptLang.org](https://www.typescriptlang.org)** `공식` `영`
 
- - **[TypeScript.kr](https://typescript-kr.github.io)** `한`
-   - 타입스크립트 한글 문서 번역 사이트
+  - 타입스크립트 공식 문서 사이트
 
- - **[타입스크립트 핸드북](https://joshua1988.github.io/ts)** `한`
-   - 타입스크립트 기초 문법 정리
+- **[TypeScript.kr](https://typescript-kr.github.io)** `한`
+
+  - 타입스크립트 한글 문서 번역 사이트
+
+- **[타입스크립트 핸드북](https://joshua1988.github.io/ts)** `한`
+  - 타입스크립트 기초 문법 정리
