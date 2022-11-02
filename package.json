@@ -22,7 +22,7 @@
     "eslint": "^8.26.0",
     "eslint-config-airbnb": "^19.0.4",
     "vitepress": "^1.0.0-alpha.26",
-    "vitepress-sidebar": "^1.0.9",
+    "vitepress-sidebar": "^1.1.0",
     "vue": "^3.2.41"
   }
 }

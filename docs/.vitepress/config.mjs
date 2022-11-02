@@ -12,7 +12,8 @@ export default {
         sidebar: generateSidebar({
             root: 'docs',
             collapsable: false,
-            useTitleFromFileHeading: true
+            useTitleFromFileHeading: true,
+            capitalizeFirst: true
         }),
         nav: [
             {
