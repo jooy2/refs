@@ -1,6 +1,7 @@
 {
 	"name": "refs",
 	"version": "1.0.0",
+	"type": "module",
 	"description": "A collection of links to various resources to help you develop your web or app.",
 	"homepage": "https://refs.jooy2.com",
 	"author": "jooy2 <jootc.help@gmail.com>",
