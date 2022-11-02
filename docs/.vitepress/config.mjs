@@ -11,7 +11,7 @@ export default {
     themeConfig: {
         sidebar: generateSidebar({
             root: 'docs',
-            collapsable: false,
+            collapsible: false,
             useTitleFromFileHeading: true,
             capitalizeFirst: true
         }),
