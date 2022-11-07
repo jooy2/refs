@@ -4,11 +4,11 @@
 
 ## 검증
 
-- **[Fast 인터넷 속도 테스트](https://www.virustotal.com)** `영`
+- **[VirusTotal](https://www.virustotal.com)** `영`
 
   - 업로드한 파일에 대한 여러 백신 프로그램의 탐지 결과를 보여주는 웹 애플리케이션. 백신별 검사 결과를 상세히 제공
 
-- **[VirusTotal](https://fast.com/ko)** `한`
+- **[Fast 인터넷 속도 테스트](https://fast.com)** `한`
 
   - 인터넷 속도 측정 사이트 (Netflix 제공)
 
@@ -19,6 +19,10 @@
 - **[Speedtest by Ookla](https://www.speedtest.net)** `영`
 
   - 인터넷 속도 측정 사이트
+
+- **[Test if a site is blocked in China](https://www.comparitech.com/privacy-security-tools/blockedinchina)** `영`
+
+  - 중국 방화벽(Great Firewall)에 의해 차단된 웹사이트인지 검증하는 사이트
 
 ## 프로그래밍
 
@@ -60,9 +64,13 @@
 
   - 텍스트 diff 제공
 
-- **[Chinese Converter](https://www.chineseconverter.com/kr)** `한`
+- **[Chinese Converter](https://www.chineseconverter.com)** `한`
 
   - 중국어 텍스트 관련 다양한 유틸리티 제공
+
+- **[Text to ASCII Art Generator](https://patorjk.com/software/taag)** `영`
+
+  - 입력한 텍스트를 다양한 폰트와 스타일의 아스키아트로 변환해주는 사이트
 
 ## 편의
 
