@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/jooy2/refs.git"
+		"url": "https://github.com/jooy2/refs.git"
 	},
 	"bugs": {
 		"url": "https://github.com/jooy2/refs/issues"
