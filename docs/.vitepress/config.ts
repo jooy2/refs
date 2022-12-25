@@ -1,10 +1,12 @@
 import { generateSidebar } from 'vitepress-sidebar';
+import { name, description, repository } from '../../package.json';
+
+const capitalizeFirst = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 // Ref: https://vitepress.vuejs.org/config/introduction
 export default {
-	title: 'Refs',
-	description:
-		'A collection of links to various resources to help you develop your web or app. 웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음.',
+	title: capitalizeFirst(name),
+	description,
 	head: [
 		['link', { rel: 'icon', href: '/logo.png' }],
 		['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
@@ -22,6 +24,6 @@ export default {
 				link: 'https://jootc.com'
 			}
 		],
-		socialLinks: [{ icon: 'github', link: 'https://github.com/jooy2/refs' }]
+		socialLinks: [{ icon: 'github', link: repository.url.replace('.git', '') }]
 	}
 };
