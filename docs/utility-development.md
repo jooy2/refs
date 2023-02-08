@@ -64,6 +64,10 @@
 
   - 텍스트 diff 제공
 
+- **[DeepL](https://www.deepl.com)** `영`
+
+  - 인공지능 텍스트/문서 번역 서비스
+
 - **[Chinese Converter](https://www.chineseconverter.com)** `한`
 
   - 중국어 텍스트 관련 다양한 유틸리티 제공
