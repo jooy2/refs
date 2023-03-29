@@ -25,6 +25,10 @@
 
   - 프로그래밍 언어 또는 개발 환경별로 `.gitignore` 파일(기본적인 규칙)을 손쉽게 생성해주는 사이트
 
+- **[Text to diagram](https://text-to-diagram.com)** `영`
+
+  - Text-to-diagram 도구를 비교하거나 체험해볼 수 있는 사이트
+
 ## 코딩 테스트
 
 - **[해커랭크 (HackerRank)](https://www.hackerrank.com)** `영`

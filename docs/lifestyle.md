@@ -39,3 +39,7 @@
 - **[Gitstar Ranking](https://gitstar-ranking.com)** `영`
 
   - GitHub 개발자 데이터를 활용한 개발자 랭킹 사이트 (등록에는 로그인 필요)
+
+- **[WakaTime](https://wakatime.com)** `영`
+
+  - IDE 플러그인으로 설치하여 언어 및 프로젝트별 개발 시간을 기록하고 공개 프로필을 제공해주는 사이트
