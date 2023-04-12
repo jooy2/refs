@@ -19,7 +19,7 @@
 
 - **[Openbase](https://openbase.com)** `영`
 
-  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러리 비교 사이트
+  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러성구리 비교 사이트
 
 - **[gitignore.io](https://www.toptal.com/developers/gitignore)** `영`
 
