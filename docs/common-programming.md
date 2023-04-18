@@ -46,3 +46,9 @@
 - **[LeetCode](https://leetcode.com)** `영`
 
   - 영문 코딩 테스트 사이트
+
+## 검증 및 보안
+
+- **[HackerOne](https://www.hackerone.com)** `영`
+
+  - 각종 보안 정보 및 바운티 프로그램, 보안 테스트 제공

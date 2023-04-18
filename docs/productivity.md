@@ -15,3 +15,19 @@
 - **[TeamGantt](https://www.teamgantt.com)** `영`
 
   - 프로젝트 스케줄 관리 웹 애플리케이션
+
+## 분석
+
+- **[Tableau](https://www.tableau.com)** `영`
+
+  - 데이터 시각화 및 분석 솔루션 제공
+
+- **[Social Blade](https://socialblade.com)** `영`
+
+  - 페이스북, 인스타그램, 유튜브 등의 SNS 채널 및 구독자 분석 사이트
+
+## 운영 및 유지보수
+
+- **[Better Stack](https://betterstack.com)** `영`
+
+  - 웹서비스 활성화 상태 확인 및 관리, 웹 로그 관리 도구 제공

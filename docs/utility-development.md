@@ -86,11 +86,21 @@
 
   - 원하는 링크나 정보가 포함된 QR 코드를 생성해주는 사이트
 
+- **[Bitly](https://bitly.com)** `영`
+
+  - URL을 짧게 만들어주는 사이트
+
 ## 단위 & 계산
 
 - **[Epoch Converter](https://www.epochconverter.com)** `영`
 
   - Unix 타임스탬프를 현재 시각으로 변환(또는 반대로)해주는 사이트
+
+## 파일 편집, 관리, 변환
+
+- **[Convertio](https://convertio.co)** `영`
+
+  - 이미지, 비디오, 문서 등의 다양한 파일을 특정 포맷으로 변환해주는 사이트
 
 ## 운영체제 - 리눅스
 
