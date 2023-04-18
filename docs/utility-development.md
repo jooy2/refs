@@ -20,6 +20,10 @@
 
   - 인터넷 속도 측정 사이트
 
+- **[KISA 후이즈검색](https://xn--c79as89aj0e29b77z.xn--3e0b707e)** `한`
+
+  - 도메인 또는 IP 검색으로 지역 정보 또는 등록 업체를 검색할 수 있는 사이트
+
 - **[Test if a site is blocked in China](https://www.comparitech.com/privacy-security-tools/blockedinchina)** `영`
 
   - 중국 방화벽(Great Firewall)에 의해 차단된 웹사이트인지 검증하는 사이트

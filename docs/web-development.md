@@ -8,6 +8,10 @@
 
   - HTML5, CSS3, JavaScript, 그 외 프로그래밍 언어가 포함된 웹 개발 입문을 위한 자습서 및 예제 제공
 
+- **[W3Schools](https://www.w3resource.com)** `영`
+
+  - HTML5, CSS3, JavaScript, PHP, 데이터베이스 등의 프론트엔드, 백엔드 웹 개발 자습서 및 예제 제공
+
 ## 프로젝트 구축, 관리 및 호환성
 
 - **[Can I Use...](https://caniuse.com)** `영`

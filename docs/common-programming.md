@@ -17,9 +17,9 @@
 
   - 여러 주요 기업이 주로 사용하는 기술 스택 정리 및 인기 기술 스택 소개 사이트
 
-- **[Openbase](https://openbase.com)** `영`
+- **[Openbase](https://openbase.com)** `영` `만료`
 
-  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러성구리 비교 사이트
+  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러성구리 비교 사이트 (2023.04 서비스 종료)
 
 - **[gitignore.io](https://www.toptal.com/developers/gitignore)** `영`
 

@@ -28,6 +28,14 @@
 
   - 우아한형제들 실무자의 지식과 경험 공유 블로그
 
+- **[YOGIYO Tech Blog](https://techblog.yogiyo.co.kr)** `한`
+
+  - 요기요 기술 블로그
+
+- **[브랜디 랩스](https://labs.brandi.co.kr)** `한`
+
+  - 브랜디 랩스 기술 블로그
+
 - **[web.dev](https://web.dev)** `영`
 
   - 웹 개발자를 위한 다양한 웹 기술 블로그 (Google 운영)
@@ -35,6 +43,14 @@
 - **[ZeroCho](https://www.zerocho.com)** `한`
 
   - 다양한 웹 프로그래밍 언어 스터디, 정보 제공
+
+- **[ESTSoft Blog](https://blog.est.ai)** `한`
+
+  - 이스트소프트 기술 블로그
+
+- **[ASEC Blog](https://asec.ahnlab.com/ko)** `한`
+
+  - 안랩(AhnLab)에서 제공하는 보안 정보 블로그
 
 ## 운영체제
 
