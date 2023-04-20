@@ -15,10 +15,13 @@ export default {
 	themeConfig: {
 		sidebar: generateSidebar({
 			root: 'docs',
-			collapsible: false,
+			collapseDepth: 2,
 			useTitleFromFileHeading: true,
 			capitalizeFirst: true
 		}),
+		search: {
+			provider: 'local'
+		},
 		nav: [
 			{
 				text: 'Blog',
