@@ -15,7 +15,7 @@ export default {
 	cleanUrls: true,
 	themeConfig: {
 		sidebar: generateSidebar({
-			root: 'docs',
+			documentRootPath: 'docs',
 			collapseDepth: 2,
 			useTitleFromFileHeading: true,
 			capitalizeFirst: true
