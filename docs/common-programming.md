@@ -39,6 +39,10 @@
 
   - 프로그래밍 문서 및 개발자 정보, 코딩 테스트 제공
 
+- **[코드업 (CodeUp)](https://www.codeup.kr)** `한`
+
+  - C++, JAVA, Python 등의 언어에 대한 코딩 테스트 제공
+
 - **[Baekjoon Online Judge](https://www.acmicpc.net)** `한` `계정`
 
   - 다양한 분야의 코딩 테스트 제공
