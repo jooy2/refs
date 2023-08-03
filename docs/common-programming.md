@@ -29,6 +29,22 @@
 
   - Text-to-diagram 도구를 비교하거나 체험해볼 수 있는 사이트
 
+## 프로그래밍 연습, 온라인 에디터
+
+- **[CodeSandbox](https://codesandbox.io)** `영`
+
+	- 주요 웹 프레임워크 환경을 사전에 지정하고 예시 코드를 작성하여 테스트 할 수 있는 온라인 코드 에디터
+
+- **[myCompiler](https://www.mycompiler.io)** `영`
+
+	- 여러가지 언어를 지원하며 간단히 예시 코드를 테스트 할 수 있는 온라인 코드 에디터
+
+## 스니펫
+
+- **[TabNine](https://www.tabnine.com/code)** `영`
+
+  - 오픈소스 리포지토리 범위 내 코드 스니펫 검색
+
 ## 코딩 테스트
 
 - **[해커랭크 (HackerRank)](https://www.hackerrank.com)** `영`

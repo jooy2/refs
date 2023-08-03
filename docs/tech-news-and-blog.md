@@ -54,6 +54,10 @@
 
 	- 우아한형제들 실무자의 지식과 경험 공유 블로그
 
+- **[Tecoble](https://tecoble.techcourse.co.kr)** `한`
+
+	- 우아한형제들 코드 리뷰 및 개발자 블로그
+
 - **[YOGIYO Tech Blog](https://techblog.yogiyo.co.kr)** `한`
 
 	- 요기요 기술 블로그
