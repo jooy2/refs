@@ -19,7 +19,7 @@
 
 - **[Openbase](https://openbase.com)** `영` `만료`
 
-  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러성구리 비교 사이트 (2023.04 서비스 종료)
+  - 프로그래밍 언어별 특정 기능에 대한 라이브러리 추천 및 유사 라이브러리 비교 사이트 (2023.04 서비스 종료)
 
 - **[gitignore.io](https://www.toptal.com/developers/gitignore)** `영`
 
@@ -28,6 +28,10 @@
 - **[Text to diagram](https://text-to-diagram.com)** `영`
 
   - Text-to-diagram 도구를 비교하거나 체험해볼 수 있는 사이트
+
+- **[Snyk Open Source Advisor](https://snyk.io/advisor)** `영`
+
+  - npm, PyPI 등의 오픈소스 패키지를 비교 분석하고 추천해주는 사이트
 
 ## 프로그래밍 연습, 온라인 에디터
 
