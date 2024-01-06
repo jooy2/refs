@@ -1,10 +1,11 @@
 import { generateSidebar } from 'vitepress-sidebar';
+import { defineConfig } from 'vitepress';
 import { name, description, repository } from '../../package.json';
 
 const capitalizeFirst = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 // Ref: https://vitepress.vuejs.org/config/introduction
-export default {
+export default defineConfig({
 	title: capitalizeFirst(name),
 	description,
 	outDir: '../dist',
@@ -31,4 +32,4 @@ export default {
 		],
 		socialLinks: [{ icon: 'github', link: repository.url.replace('.git', '') }]
 	}
-};
+});
