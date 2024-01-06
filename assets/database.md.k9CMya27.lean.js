@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as r}from"./chunks/framework.3LEfkZv-.js";const f=JSON.parse('{"title":"데이터베이스","description":"","frontmatter":{},"headers":[],"relativePath":"database.md","filePath":"database.md"}'),o={name:"database.md"},l=r("",4),i=[l];function s(n,c,d,_,h,p){return a(),t("div",null,i)}const m=e(o,[["render",s]]);export{f as __pageData,m as default};

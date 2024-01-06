@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,R as l}from"./chunks/framework.3LEfkZv-.js";const g=JSON.parse('{"title":"리소스","description":"","frontmatter":{},"headers":[],"relativePath":"resource.md","filePath":"resource.md"}'),t={name:"resource.md"},o=l("",14),i=[o];function n(s,c,h,u,d,p){return r(),a("div",null,i)}const _=e(t,[["render",n]]);export{g as __pageData,_ as default};

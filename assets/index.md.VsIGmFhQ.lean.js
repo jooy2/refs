@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,R as r}from"./chunks/framework.3LEfkZv-.js";const m=JSON.parse('{"title":"🔗 Refs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),a={name:"index.md"},l=r("",11),i=[l];function s(c,n,d,h,u,f){return o(),t("div",null,i)}const p=e(a,[["render",s]]);export{m as __pageData,p as default};
