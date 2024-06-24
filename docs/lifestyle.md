@@ -48,6 +48,19 @@
 
   - IDE 플러그인으로 설치하여 언어 및 프로젝트별 개발 시간을 기록하고 공개 프로필을 제공해주는 사이트
 
+
+- **[NowNowNow](https://nownownow.com)** `영`
+
+  - 개인 블로그 또는 프로필에 now 페이지(현재 자신이 무엇을 하는지에 대한 상태 프로필)를 정리해둔 사이트
+
+
+## 인재 채용 & 기업 정보
+
+- **[The Google Cemetery](https://www.theteams.kr)** `한`
+
+	- 커리어 정보 서비스, 대기업, 대외활동, 채용 정보 제공
+
+
 ## TMI & MISC
 
 - **[The Google Cemetery](https://gcemetery.co)** `영`

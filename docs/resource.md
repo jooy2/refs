@@ -44,6 +44,10 @@
 
   - 윈도우 업데이트 서버에서 UUP 파일을 검색하여 쉽게 다운로드할 수 있는 사이트
 
+- **[IPSW Downloads](https://ipsw.me)** `영`
+
+  - macOS IPSW 이미지 파일 제공
+
 ## 데이터
 
 - **[공공 데이터 포털](https://www.data.go.kr)** `한`
