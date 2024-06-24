@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a3 as r}from"./chunks/framework.DpFyhY0e.js";const f=JSON.parse('{"title":"생산성 업무","description":"","frontmatter":{},"headers":[],"relativePath":"productivity.md","filePath":"productivity.md"}'),l={name:"productivity.md"},o=r("",8),i=[o];function n(c,s,d,u,h,p){return a(),t("div",null,i)}const m=e(l,[["render",n]]);export{f as __pageData,m as default};
