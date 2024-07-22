@@ -2,7 +2,7 @@
 
 > 프로그래밍에 유용한 각종 유틸리티 정보
 
-## 검증
+## 검증 및 보안
 
 - **[VirusTotal](https://www.virustotal.com)** `영`
 
@@ -28,6 +28,17 @@
 
   - 중국 방화벽(Great Firewall)에 의해 차단된 웹사이트인지 검증하는 사이트
 
+- **[HackerOne](https://www.hackerone.com)** `영`
+
+	- 각종 보안 정보 및 바운티 프로그램, 보안 테스트 제공
+
+
+## 테스트
+
+- **[BrowserStack](https://www.browserstack.com)** `영`
+
+	- 수많은 실기기와 웹사이트 환경에서 앱이나 웹사이트를 테스트해볼 수 있는 사이트
+
 ## 그래픽
 
 - **[Adobe Color](https://color.adobe.com)** `영`
@@ -51,6 +62,10 @@
 - **[Figma](https://www.figma.com)** `영`
 
   - 웹, 애플리케이션 인터페이스 디자인 협업 도구
+
+- **[Canva](https://canva.com)** `영`
+
+  - 웹사이트, 로고, 브랜드, 문서 등에 대한 다양한 템플릿 및 목업 제작 도구
 
 ## 텍스트
 

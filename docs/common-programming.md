@@ -71,8 +71,8 @@
 
   - 영문 코딩 테스트 사이트
 
-## 검증 및 보안
+## IDE
 
-- **[HackerOne](https://www.hackerone.com)** `영`
+- **[Project IDX](https://idx.dev)** `영`
 
-  - 각종 보안 정보 및 바운티 프로그램, 보안 테스트 제공
+	- 클라우드 통합 개발 환경에서 프로젝트 작성
