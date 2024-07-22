@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as l,a4 as t}from"./chunks/framework.C8aSGU9Q.js";const f=JSON.parse('{"title":"라이프스타일","description":"","frontmatter":{},"headers":[],"relativePath":"lifestyle.md","filePath":"lifestyle.md"}'),a={name:"lifestyle.md"},o=t("",12),i=[o];function n(s,c,h,u,p,d){return l(),r("div",null,i)}const m=e(a,[["render",n]]);export{f as __pageData,m as default};
