@@ -14,6 +14,7 @@ const editLinkPattern = 'https://github.com/jooy2/refs/edit/master/docs/:path';
 export default defineConfig({
 	title: capitalizeFirst(name),
 	lastUpdated: true,
+	lang: 'ko-KR',
 	description,
 	outDir: '../dist',
 	cleanUrls: true,
@@ -50,17 +51,17 @@ export default defineConfig({
 		footer: {
 			message: 'Released under the MIT License',
 			copyright: '© <a href="https://jooy2.com">Jooy2</a>'
+		}
+	},
+	locales: generateI18nLocale({
+		label: {
+			ko: '한국어'
 		},
-		locales: generateI18nLocale({
-			label: {
-				ko: '한국어'
-			},
-			lang: {
-				ko: 'ko-KR'
-			},
-			defineLocales: defineSupportLocales,
-			rootLocale: defaultLocale,
-			editLinkPattern
-		})
-	}
+		lang: {
+			ko: 'ko-KR'
+		},
+		defineLocales: defineSupportLocales,
+		rootLocale: defaultLocale,
+		editLinkPattern
+	})
 });
