@@ -54,14 +54,12 @@ export default defineConfig({
 		}
 	},
 	locales: generateI18nLocale({
-		label: {
-			ko: '한국어'
-		},
-		lang: {
-			ko: 'ko-KR'
-		},
 		defineLocales: defineSupportLocales,
 		rootLocale: defaultLocale,
+		description: {
+			ko: '웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음.',
+			en: description
+		},
 		editLinkPattern
 	})
 });
