@@ -1,21 +1,27 @@
 import { generateSidebar } from 'vitepress-sidebar';
-import { defineConfig } from 'vitepress';
-import { generateI18nLocale, generateI18nSearch } from 'vitepress-i18n';
+import { defineConfig, UserConfig } from 'vitepress';
+import { withI18n } from 'vitepress-i18n';
+import { VitePressI18nOptions } from 'vitepress-i18n/dist/types';
 import { name, description, repository, homepage } from '../../package.json';
 
 const capitalizeFirst = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
 
 const defaultLocale: string = 'ko';
-const defineSupportLocales = [{ label: defaultLocale, translateLocale: defaultLocale }];
 
-const editLinkPattern = 'https://github.com/jooy2/refs/edit/master/docs/:path';
+const vitePressI18nConfigs: VitePressI18nOptions = {
+	locales: [defaultLocale],
+	rootLocale: defaultLocale,
+	searchProvider: 'local',
+	description: {
+		ko: '웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음.',
+		en: description
+	}
+};
 
 // Ref: https://vitepress.vuejs.org/config/introduction
-export default defineConfig({
+const vitePressConfigs: UserConfig = {
 	title: capitalizeFirst(name),
 	lastUpdated: true,
-	lang: 'ko-KR',
-	description,
 	outDir: '../dist',
 	cleanUrls: true,
 	metaChunk: true,
@@ -36,11 +42,9 @@ export default defineConfig({
 			useTitleFromFileHeading: true,
 			capitalizeFirst: true
 		}),
-		search: generateI18nSearch({
-			defineLocales: defineSupportLocales,
-			rootLocale: defaultLocale,
-			provider: 'local'
-		}),
+		editLink: {
+			pattern: 'https://github.com/jooy2/refs/edit/master/docs/:path'
+		},
 		nav: [
 			{
 				text: 'Blog',
@@ -52,14 +56,7 @@ export default defineConfig({
 			message: 'Released under the MIT License',
 			copyright: '© <a href="https://jooy2.com">Jooy2</a>'
 		}
-	},
-	locales: generateI18nLocale({
-		defineLocales: defineSupportLocales,
-		rootLocale: defaultLocale,
-		description: {
-			ko: '웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음.',
-			en: description
-		},
-		editLinkPattern
-	})
-});
+	}
+};
+
+export default defineConfig(withI18n(vitePressConfigs, vitePressI18nConfigs));
