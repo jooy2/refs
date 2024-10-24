@@ -29,13 +29,15 @@ const vitePressConfigs: UserConfig = {
 		'ko/:rest*': ':rest*'
 	},
 	head: [
-		['link', { rel: 'icon', href: '/logo.png' }],
+		['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/logo-32.png' }],
+		['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/logo-16.png' }],
 		['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
 	],
 	sitemap: {
 		hostname: homepage
 	},
 	themeConfig: {
+		logo: { src: '/logo-32.png', width: 24, height: 24 },
 		sidebar: generateSidebar({
 			documentRootPath: 'docs',
 			collapseDepth: 2,
