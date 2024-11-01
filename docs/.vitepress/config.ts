@@ -1,4 +1,4 @@
-import { generateSidebar } from 'vitepress-sidebar';
+import { VitePressSidebarOptions, withSidebar } from 'vitepress-sidebar';
 import { defineConfig, UserConfig } from 'vitepress';
 import { withI18n } from 'vitepress-i18n';
 import { VitePressI18nOptions } from 'vitepress-i18n/dist/types';
@@ -16,6 +16,13 @@ const vitePressI18nConfigs: VitePressI18nOptions = {
 		ko: '웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음.',
 		en: description
 	}
+};
+
+const vitePressSidebarConfigs: VitePressSidebarOptions = {
+	documentRootPath: 'docs',
+	collapseDepth: 2,
+	useTitleFromFileHeading: true,
+	capitalizeFirst: true
 };
 
 // Ref: https://vitepress.vuejs.org/config/introduction
@@ -38,12 +45,6 @@ const vitePressConfigs: UserConfig = {
 	},
 	themeConfig: {
 		logo: { src: '/logo-32.png', width: 24, height: 24 },
-		sidebar: generateSidebar({
-			documentRootPath: 'docs',
-			collapseDepth: 2,
-			useTitleFromFileHeading: true,
-			capitalizeFirst: true
-		}),
 		editLink: {
 			pattern: 'https://github.com/jooy2/refs/edit/master/docs/:path'
 		},
@@ -61,4 +62,6 @@ const vitePressConfigs: UserConfig = {
 	}
 };
 
-export default defineConfig(withI18n(vitePressConfigs, vitePressI18nConfigs));
+export default defineConfig(
+	withSidebar(withI18n(vitePressConfigs, vitePressI18nConfigs), vitePressSidebarConfigs)
+);
