@@ -16,7 +16,7 @@
 
   - 프로젝트 스케줄 관리 웹 애플리케이션
 
-## 분석
+## 시각화 및 분석
 
 - **[Tableau](https://www.tableau.com)** `영`
 
@@ -25,6 +25,14 @@
 - **[Social Blade](https://socialblade.com)** `영`
 
   - 페이스북, 인스타그램, 유튜브 등의 SNS 채널 및 구독자 분석 사이트
+
+- **[draw.io](https://app.diagrams.net)** `영`
+
+  - 무료 순서도 (다이어그램) 작성 웹 유틸리티
+
+- **[Gliffy](https://www.gliffy.com)** `영`
+
+  - 순서도 (다이어그램) 작성 웹 유틸리티
 
 ## 운영 및 유지보수
 

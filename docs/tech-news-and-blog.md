@@ -24,6 +24,10 @@
 
   - 마이크로소프트 윈도우 기반 하드웨어, 소프트웨어 뉴스 제공
 
+- **[XDA](https://www.xda-developers.com)** `영`
+
+  - 개발, 테크, 윈도우 운영체제 및 하드웨어 관련 뉴스 제공
+
 - **[Windows Experience Blog](https://blogs.windows.com/windowsexperience)** `영`
 
   - 마이크로소프트 윈도우, 오피스, 인터넷, 하드웨어, 게임 등 다양한 소식 및 지식 제공

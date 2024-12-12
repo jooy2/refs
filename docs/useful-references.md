@@ -12,6 +12,10 @@
 
   - 검색한 소프트웨어가 Apple Silicon 칩(M1~)을 공식적으로 지원하는지 확인해볼 수 있는 사이트
 
+- **[Display Wars](https://www.displaywars.com)** `영`
+
+  - 디스플레이 크기(인치)별 비교 사이트
+
 ## 서비스
 
 - **[AWS DOCS GPT](https://www.awsdocsgpt.com)** `영`
