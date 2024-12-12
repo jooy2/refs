@@ -1,7 +1,8 @@
-import { VitePressSidebarOptions, withSidebar } from 'vitepress-sidebar';
 import { defineConfig, UserConfig } from 'vitepress';
+import { withSidebar } from 'vitepress-sidebar';
 import { withI18n } from 'vitepress-i18n';
-import { VitePressI18nOptions } from 'vitepress-i18n/dist/types';
+import type { VitePressSidebarOptions } from 'vitepress-sidebar/dist/types';
+import type { VitePressI18nOptions } from 'vitepress-i18n/dist/types';
 import { name, description, repository, homepage } from '../../package.json';
 
 const capitalizeFirst = (str: string) => str.charAt(0).toUpperCase() + str.slice(1);
