@@ -3,7 +3,7 @@ name: docs
 on:
   # run every time a push occurs in the docs folder
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - docs/**
       - package.json

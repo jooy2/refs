@@ -1,6 +1,6 @@
 # 🔗 Refs
 
-> [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jooy2/refs/blob/master/LICENSE) [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) ![Stars](https://img.shields.io/github/stars/jooy2/refs?style=social)
+> [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jooy2/refs/blob/main/LICENSE) [![Followers](https://img.shields.io/github/followers/jooy2?style=social)](https://github.com/jooy2) ![Stars](https://img.shields.io/github/stars/jooy2/refs?style=social)
 
 웹 또는 앱 개발에 도움이 될만한 다양한 참고자료 링크 모음
 
@@ -27,4 +27,4 @@
 
 ## License
 
-Copyright © 2022-2024 [Jooy2](https://jooy2.com) <[jooy2.contact@gmail.com](mailto:jooy2.contact@gmail.com)> Released under the MIT license.
+Please see the [LICENSE](LICENSE) file for more information about project owners, usage rights, and more.

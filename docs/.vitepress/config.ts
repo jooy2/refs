@@ -47,7 +47,7 @@ const vitePressConfigs: UserConfig = {
 	themeConfig: {
 		logo: { src: '/logo-32.png', width: 24, height: 24 },
 		editLink: {
-			pattern: 'https://github.com/jooy2/refs/edit/master/docs/:path'
+			pattern: 'https://github.com/jooy2/refs/edit/main/docs/:path'
 		},
 		nav: [
 			{
