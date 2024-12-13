@@ -101,3 +101,11 @@
 - **[ASEC Blog](https://asec.ahnlab.com/ko)** `한`
 
   - 안랩(AhnLab)에서 제공하는 보안 정보 블로그
+
+- **[Naverfficial](https://fficial.naver.com)** `한`
+
+  - 네이버에서 제공하는 비하인드 스토이 및 기술 블로그
+
+- **[EO planet](https://eopla.net)** `한`
+
+  - 스타트업, 사업 및 마케팅, 운영 관련 뉴스 및 정보 제공 사이트

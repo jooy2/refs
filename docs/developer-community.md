@@ -84,4 +84,8 @@
 
 - **[NanoReview](https://nanoreview.net)** `영`
 
-  - CPU, GPU, SoC 하드웨어 비교 및 벤치마트 사이트
+  - CPU, GPU, SoC 하드웨어 비교 및 벤치마크 사이트
+
+- **[Technical City](https://technical.city)** `영`
+
+  - CPU, GPU 하드웨어 비교 및 벤치마크 사이트

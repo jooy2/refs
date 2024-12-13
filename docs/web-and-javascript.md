@@ -48,6 +48,10 @@
 
   - 여러 NPM 모듈간의 다운로드 추세 통계를 비교해주는 사이트
 
+- **[Bundlephobia](https://bundlephobia.com)** `영`
+
+  - NPM 패키지의 번들 크기 검색 사이트
+
 - **[Chrome Platform Status](https://chromestatus.com/roadmap)** `영`
 
   - Google Chrome 브라우저의 기술 관련 릴리스 주요 변동사항

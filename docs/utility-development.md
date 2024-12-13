@@ -8,6 +8,10 @@
 
   - 암호화, 포맷팅, 컨버팅 등 다양한 온라인 유틸리티 제공
 
+- **[PiliApp](https://kr.piliapp.com)** `한`
+
+  - 인터넷 또는 실생활에 유용한 온라인 유틸리티 제공
+
 ## 검증 및 보안
 
 - **[VirusTotal](https://www.virustotal.com)** `영`
@@ -37,6 +41,10 @@
 - **[HackerOne](https://www.hackerone.com)** `영`
 
   - 각종 보안 정보 및 바운티 프로그램, 보안 테스트 제공
+
+- **[Global Brand Database](https://branddb.wipo.int)** `영`
+
+  - 브랜드, 로고 유사성 등을 검색하고 조회하는 상표 검색 사이트
 
 ## 테스트
 
@@ -76,6 +84,10 @@
 
   - 웹사이트, 로고, 브랜드, 문서 등에 대한 다양한 템플릿 및 목업 제작 도구
 
+- **[App Icon Generator](https://www.appicon.co)** `영`
+
+  - 모바일 애플리케이션용 아이콘 제작 도구
+
 ## 텍스트
 
 - **[Mergely](https://editor.mergely.com)** `영`
@@ -97,6 +109,10 @@
 - **[Word Find](http://wordfind.co.kr)** `한`
 
   - 애너그램, 스크램블 워드 등 다양한 조건으로 단어를 찾아주는 사이트
+
+- **[SNS Keyboard](https://snskeyboard.com)** `한`
+
+  - 특이한 특수문자, 이모티콘, 아스키아트 모음 사이트
 
 ## 편의
 

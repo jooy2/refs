@@ -8,6 +8,10 @@
 
   - 운영체제 사용, 유틸리티 활용을 포함하여 일상의 유용한 팁을 정리한 사이트
 
+- **[위키독스](https://wikidocs.net)** `한`
+
+  - IT, 프로그래밍 관련 출판물 공유 사이트
+
 - **[Is Apple Silicon ready?](https://isapplesiliconready.com)** `한`
 
   - 검색한 소프트웨어가 Apple Silicon 칩(M1~)을 공식적으로 지원하는지 확인해볼 수 있는 사이트
