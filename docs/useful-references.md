@@ -35,3 +35,7 @@
 - **[iOS Resolution](https://www.ios-resolution.com)** `영`
 
   - iOS, iPadOS가 탑재된 기기의 실제 크기, 해상도 등을 정리한 참고자료 사이트
+
+- **[API Levels](https://apilevels.com)** `영`
+
+  - Android API 레벨을 정리한 사이트

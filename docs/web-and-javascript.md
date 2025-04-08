@@ -56,6 +56,10 @@
 
   - Google Chrome 브라우저의 기술 관련 릴리스 주요 변동사항
 
+- **[OpenAlternative](https://openalternative.co)** `영`
+
+  - 오픈소스 프로젝트 중 특정 모듈의 대체 모듈을 소개하는 사이트
+
 ## 호스팅
 
 - **[Instant Domain Search](https://instantdomainsearch.com)** `영`
@@ -75,3 +79,11 @@
 - **[Mozilla Observatory](https://observatory.mozilla.org)** `영`
 
   - 웹사이트에 대한 보안 정책에 대한 취약점(주로 `CORS`, `CSP`)을 검증하고 해결 방법을 안내하는 도구
+
+- **[Lightspeed](https://lightspeed.run)** `영`
+
+  - 웹사이트 퍼포먼스 측정 도구
+
+- **[HTTP/3 Check](https://http3check.net)** `영`
+
+  - 특정 호스트에서 HTTP/3 프로토콜을 사용하는지 확인하는 사이트

@@ -40,10 +40,6 @@
 
 ## 개발자 프로필
 
-- **[OPGC](https://opgc.me)** `한`
-
-  - GitHub 개발자 데이터를 활용한 개발자 랭킹 사이트
-
 - **[Gitstar Ranking](https://gitstar-ranking.com)** `영`
 
   - GitHub 개발자 데이터를 활용한 개발자 랭킹 사이트 (등록에는 로그인 필요)
